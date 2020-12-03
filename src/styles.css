@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  color: #069c90;
+  min-height: 100vh;
+}
+
+#playground {
+  display: flex;
+  border: 1px solid blue;
+  margin: 0 auto;
+  min-height: 80vh;
+}
