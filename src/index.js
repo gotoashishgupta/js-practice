@@ -1,6 +1,5 @@
 import "./styles.css";
 console.clear();
-// import { isEditable } from "./is-editable";
 const print = (m) => {
   const preEl = document.createElement("pre");
   const msgEl = document.createTextNode(`${m}`);
